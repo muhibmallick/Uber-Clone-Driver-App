@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\ed0bcafb61d04a4de8b904d89823ca86\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\c42d79bb9bfae81f8d3e818b751f6ab2\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\ed0bcafb61d04a4de8b904d89823ca86\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\c42d79bb9bfae81f8d3e818b751f6ab2\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\ed0bcafb61d04a4de8b904d89823ca86\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\c42d79bb9bfae81f8d3e818b751f6ab2\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\c42d79bb9bfae81f8d3e818b751f6ab2\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\ed0bcafb61d04a4de8b904d89823ca86\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\ed0bcafb61d04a4de8b904d89823ca86\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\c42d79bb9bfae81f8d3e818b751f6ab2\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HomePc\\Desktop\\Flutter Test\\divers_app\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\HomePc\\.gradle\\caches\\transforms-3\\ed0bcafb61d04a4de8b904d89823ca86\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    }
+]
